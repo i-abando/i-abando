@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @i-abando
 - 👀 I’m interested to learn more about different kind of programming languages 
 - 🌱 I’m currently learning about java.
-- 💞️ I’m looking to colaborate to somebody who want to teach me.  
+- 💞️ I’m looking to colaborate to someone, who are willing to teach me about programming.   
 - 📫 How to reach me on my email account which is ihcealjayabando@gmail.com
 
 <!---
